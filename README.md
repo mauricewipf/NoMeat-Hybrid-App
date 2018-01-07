@@ -14,8 +14,11 @@ $ npm install
 $ ionic serve
 ```
 
-## Deployment
+## Deploy to Ionic
 
 ```
+$ git add .
+$ git commit -am "make it better"
+$ git push ionic master
 ```
 
