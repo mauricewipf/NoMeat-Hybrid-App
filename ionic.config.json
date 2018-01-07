@@ -1,0 +1,8 @@
+{
+  "name": "NoMeat",
+  "app_id": "ac8faae8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
